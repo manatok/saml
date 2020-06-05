@@ -18,7 +18,7 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	dsig "github.com/russellhaering/goxmldsig"
+	dsig "github.com/manatok/goxmldsig"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/crewjam/saml"

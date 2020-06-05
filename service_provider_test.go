@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/beevik/etree"
-	dsig "github.com/russellhaering/goxmldsig"
+	dsig "github.com/manatok/goxmldsig"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/crewjam/saml/testsaml"

@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	dsig "github.com/russellhaering/goxmldsig"
+	dsig "github.com/manatok/goxmldsig"
 )
 
 // TimeNow is a function that returns the current time. The default

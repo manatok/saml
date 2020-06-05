@@ -10,13 +10,12 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/jonboulle/clockwork v0.1.0 // indirect
 	github.com/kr/pretty v0.2.0
+	github.com/manatok/goxmldsig v0.0.0-20200605131413-a09a0f01503d
 	github.com/pkg/errors v0.8.1 // indirect
-	github.com/russellhaering/goxmldsig v0.0.0-20180430223755-7acd5e4a6ef7
+	github.com/russellhaering/goxmldsig v0.0.0-20180430223755-7acd5e4a6ef7 // indirect
 	github.com/stretchr/testify v1.5.1
 	github.com/zenazn/goji v0.9.1-0.20160507202103-64eb34159fe5
 	golang.org/x/crypto v0.0.0-20190923035154-9ee001bba392
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
 	gopkg.in/yaml.v2 v2.2.4 // indirect
 )
-
-replace github.com/russellhaering/goxmldsig => github.com/manatok/goxmldsig v0.0.0-20200605131413-a09a0f01503d
