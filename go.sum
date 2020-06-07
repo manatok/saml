@@ -17,8 +17,8 @@ github.com/kr/pretty v0.2.0/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfn
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/manatok/goxmldsig v0.0.0-20200606085157-fd783e012bef h1:8TYo8vgEPW9jK1RAkQQvngUD6PDNAKetu+fGZT3TQkM=
-github.com/manatok/goxmldsig v0.0.0-20200606085157-fd783e012bef/go.mod h1:DSwmMHKJDdTv7tlthnlX4P1jo4fvxdJmgfraYFTJ1r4=
+github.com/manatok/goxmldsig v0.0.0-20200607142233-ec23a5ece56c h1:tF7H8HpR7SPWXyBfRVNFDM/7hoQfTJNCinGnvBYDDOQ=
+github.com/manatok/goxmldsig v0.0.0-20200607142233-ec23a5ece56c/go.mod h1:DSwmMHKJDdTv7tlthnlX4P1jo4fvxdJmgfraYFTJ1r4=
 github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

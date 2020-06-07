@@ -10,7 +10,7 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/jonboulle/clockwork v0.1.0 // indirect
 	github.com/kr/pretty v0.2.0
-	github.com/manatok/goxmldsig v0.0.0-20200606085157-fd783e012bef
+	github.com/manatok/goxmldsig v0.0.0-20200607142233-ec23a5ece56c
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/russellhaering/goxmldsig v0.0.0-20180430223755-7acd5e4a6ef7 // indirect
 	github.com/stretchr/testify v1.5.1
